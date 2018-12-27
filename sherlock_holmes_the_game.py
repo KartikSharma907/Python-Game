@@ -67,7 +67,7 @@ class introduction(scene):
 				It's the only requirement to play this game
 				hint - Your house number.
 				"""))
-			code = "212"
+			code = "221"
 			guess = input("> ") #taking input from user
 
 			if guess == code:
